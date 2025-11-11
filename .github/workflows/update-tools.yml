@@ -1,0 +1,40 @@
+name: Update tools.csv from Google Sheet
+
+on:
+  schedule:
+    # every 30 minutes (UTC). Change cron if you want less/more frequent.
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch sheet CSV
+        id: fetch
+        run: |
+          set -e
+          SHEET_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vQqnQ_l3qLdPTxIgoyQQWqjP_XppL1jjcINv6UYM8fP9qGVr3sZJzZ93Tx8ftsnQ2xCgUu_sKzLQ8MS/pub?output=csv'
+          echo "Fetching $SHEET_URL"
+          curl -fsSL "$SHEET_URL" -o tools.csv
+          echo "Fetched $(wc -c tools.csv) bytes"
+          # simple validation: require header row
+          head -n1 tools.csv | grep -q 'name' || (echo "CSV missing header" && exit 1)
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update tools.csv from Google Sheet"
+            git push origin HEAD:main
+            echo "Committed updated tools.csv"
+          fi
