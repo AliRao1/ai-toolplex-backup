@@ -1,443 +1,73 @@
 name,url,pricing,category,desc,tags,logo,icon
-Runway,https://runwayml.com,premium,content-creation,Text→video and pro editing,"video, editing, gen",,🎬
-Pika Labs,https://pika.art,freemium,content-creation,Fast text→video for creators,"video, clips, shorts",,🎥
-Synthesia,https://www.synthesia.io,premium,content-creation,Script→video with AI presenters,"avatar, studio",,🎞️
-Leonardo AI,https://leonardo.ai,freemium,content-creation,High-quality text→image generation,"image, prompt, art",,🖌️
-GitHub Copilot,https://github.com/features/copilot,paid,developer-tools,AI pair programmer for coders,"code, autocomplete",,💻
-Replit,https://replit.com,freemium,developer-tools,Online IDE with built-in AI,"ide, code, project",,⚙️
-Supabase,https://supabase.com,freemium,developer-tools,Firebase alternative with AI-ready backend,"db, auth, storage",,🧩
-Zapier,https://zapier.com,freemium,others,Automate tasks between apps using AI,"automation, workflow",,🔄
-Framer,https://www.framer.com,freemium,others,AI website and landing page builder,"design, site, layout",,🎨
-Midjourney,https://www.midjourney.com,paid,content-creation,Artistic text→image generation,"image, art, stylize",,🎨
-Ideogram,https://ideogram.ai,freemium,content-creation,Text-in-image posters & logos,"image, typography, poster",,🖋️
-Kapwing,https://www.kapwing.com,freemium,content-creation,"Online editor, image→video & resize","video, editor, resize",,✂️
-VEED,https://www.veed.io,freemium,content-creation,Web video editor with captions,"video, captions, editor",,🎬
-Pictory,https://pictory.ai,freemium,content-creation,Script/image→video with subtitles,"video, slideshow, captions",,📽️
-Codeium,https://codeium.com,freemium,developer-tools,AI code autocomplete for IDEs,"code, autocomplete, IDE",,💻
-Cursor,https://www.cursor.com,freemium,developer-tools,AI-powered coding editor,"editor, code, ai",,⚙️
-LangChain,https://www.langchain.com,freemium,developer-tools,Framework for building LLM apps,"llm, framework, tooling",,🧠
-Pinecone,https://www.pinecone.io,freemium,developer-tools,Managed vector database,"vector, search, database",,📦
-Make (Integromat),https://www.make.com,freemium,others,Visual automation workflows,"automation, integrations, nocode",,🔄
-Adobe Express,https://www.adobe.com/express/,freemium,content-creation,Fast design & video templates,"design, video, templates",,🎨
-CapCut,https://www.capcut.com/,freemium,content-creation,Web video editor with effects,"video, editor, effects",,🎬
-Clipchamp,https://www.clipchamp.com/,freemium,content-creation,Microsoft online video editor,"video, editor, templates",,🎬
-Wave.video,https://wave.video/,freemium,content-creation,Video maker & hosting,"video, hosting, marketing",,🎬
-Animaker,https://www.animaker.com/,freemium,content-creation,DIY animated videos from scripts,"animation, templates",,🎞️
-RawShorts,https://www.rawshorts.com/,paid,content-creation,AI explainer video builder,"explainer, templates",,🎞️
-Steve.ai,https://www.steve.ai/,freemium,content-creation,Text-to-video with stock assets,"text-video, templates",,🎬
-Elai,https://elai.io/,paid,content-creation,Presenter videos from script,"avatar, presenter",,🎥
-Colossyan,https://www.colossyan.com/,paid,content-creation,Studio presenter videos,"avatar, training",,🎥
-Yepic AI,https://www.yepic.ai/,paid,content-creation,Avatar videos & localization,"avatar, localize",,🎥
-Wisecut,https://www.wisecut.video/,freemium,content-creation,Auto jump-cuts & music,"cuts, captions",,✂️
-KapCut Templates,https://www.capcut.com/template-center,freemium,content-creation,Ready short-form templates,"shorts, templates",,🎬
-Veed Subtitles,https://www.veed.io/tools/automatic-subtitles,freemium,content-creation,Auto subtitles for videos,"captions, subtitles",,📝
-Descript Audiogram,https://www.descript.com/audiograms,freemium,content-creation,Turn audio into shareable videos,"audiogram, podcast",,🎧
-Luma AI,https://lumalabs.ai/,freemium,content-creation,3D capture & video AI,"3d, video, nerf",,🧊
-Kaiber,https://www.kaiber.ai/,paid,content-creation,Transform images/music to video,"motion, fx",,🎨
-Runway Green Screen,https://runwayml.com/green-screen/,premium,content-creation,Background removal for video,"greenscreen, edit",,🟩
-Wondershare Filmora,https://filmora.wondershare.com/,paid,content-creation,Template-driven video editing,"editor, templates",,🎬
-Vyond,https://www.vyond.com/,paid,content-creation,Business animation maker,"animation, business",,🎞️
-Animoto,https://animoto.com/,freemium,content-creation,Photo slideshows & promos,"slideshow, marketing",,🖼️
-Canva Docs to Decks,https://www.canva.com,freemium,content-creation,AI helps design docs & decks,"canva, design",,📄
-Jasper Art,https://www.jasper.ai/art,paid,content-creation,AI image generation in Jasper,"image, marketing",,🖌️
-Fotor AI,https://www.fotor.com/,freemium,content-creation,Design suite & AI tools,"design, image",,🎨
-Pixlr,https://pixlr.com/,freemium,content-creation,Fast online photo editor,"photo, edit",,🖼️
-Remove.bg,https://www.remove.bg/,freemium,content-creation,One-click background removal,"background, cutout",,✂️
-Cleanup.pictures,https://cleanup.pictures/,freemium,content-creation,Remove objects from photos,"cleanup, inpaint",,🧽
-DreamStudio (Stable Diffusion),https://dreamstudio.ai/,paid,content-creation,Official SD image generation,"sd, image",,🖌️
-Clipdrop,https://clipdrop.co/,freemium,content-creation,"Cleanup, relight, upscale","edit, upscale",,💡
-Canva Beat Sync,https://www.canva.com,freemium,content-creation,Auto sync video to music,"beat, sync",,🎵
-Otter.ai,https://otter.ai/,freemium,content-creation,Meeting transcription & notes,"transcript, notes",,🎙️
-Riverside Magic Clips,https://riverside.fm/,freemium,content-creation,Auto highlights from recordings,"podcast, clips",,🎧
-Kapwing Meme Generator,https://www.kapwing.com/meme-maker,freemium,content-creation,Quick meme creation online,"meme, generator",,😂
-Synthesys,https://synthesys.io/,paid,content-creation,Human-sounding TTS & avatars,"tts, avatar",,🔊
-Speechelo,https://speechelo.com/,paid,content-creation,Simple text-to-speech,"tts, voice",,🔉
-PlayHT Voice Clone,https://play.ht/,freemium,content-creation,Realistic cloning & TTS,"tts, clone",,🗣️
-AIVA,https://www.aiva.ai/,freemium,content-creation,AI music composer,"music, compose",,🎼
-Beatoven.ai,https://www.beatoven.ai/,freemium,content-creation,Custom royalty-free music,"music, royaltyfree",,🎶
-ElevenLabs Sound Effects,https://elevenlabs.io/,freemium,content-creation,FX & TTS tools,"sfx, tts",,🔊
-Murf Studio,https://murf.ai/,freemium,content-creation,Voiceovers with studio UI,"voice, studio",,🎙️
-Illustroke,https://www.illustroke.com/,paid,content-creation,SVG illustrations from text,"svg, vector",,✏️
-Scribble Diffusion,https://scribblediffusion.com/,free,content-creation,Turn doodles into images,"draw, image",,🖍️
-TOME,https://tome.app/,freemium,content-creation,AI presentation builder,"deck, slides",,📊
-Gamma,https://gamma.app/,freemium,content-creation,AI decks & docs,"deck, doc",,📑
-Typst,https://typst.app/,freemium,content-creation,Modern typesetting with AI,"typeset, docs",,🅣
-Hemingway App,https://hemingwayapp.com/,free,content-creation,Writing clarity analyzer,"writing, editor",,✍️
-ProWritingAid,https://prowritingaid.com/,freemium,content-creation,Grammar & style improvements,"writing, grammar",,📝
-QuillBot,https://quillbot.com/,freemium,content-creation,Paraphraser & summarizer,"rewrite, summarize",,🔁
-Rytr,https://rytr.me/,freemium,content-creation,AI writing assistant,"writing, blog",,🖊️
-Copy.ai,https://www.copy.ai/,freemium,content-creation,Marketing copy generator,"marketing, copy",,📣
-Writesonic,https://writesonic.com/,freemium,content-creation,"Ads, blogs, landing copy","ads, blog",,📝
-Peppertype,https://www.peppertype.ai/,paid,content-creation,AI content platform,"content, copy",,🧠
-ShortlyAI,https://www.shortlyai.com/,paid,content-creation,Long-form writing assistant,"writing, longform",,📝
-Sudowrite,https://www.sudowrite.com/,paid,content-creation,Creative writing partner,"fiction, story",,🧚
-Descript Studio Sound,https://www.descript.com/,freemium,content-creation,Enhance audio quality,"audio, enhance",,🎛️
-Auphonic,https://auphonic.com/,freemium,content-creation,Automatic audio post-production,"audio, level",,🎚️
-Krisp,https://krisp.ai/,freemium,content-creation,Noise cancellation for calls,"noise, call",,🔇
-Fireflies.ai,https://fireflies.ai/,freemium,content-creation,Meeting recorder with AI notes,"meeting, notes",,🗒️
-TLDR This,https://tldrthis.com/,freemium,content-creation,Summarize articles quickly,"summary, article",,📰
-Notion AI,https://www.notion.so/product/ai,freemium,others,AI help inside Notion workspace,"docs, notes",,📒
-Coda AI,https://coda.io/ai,freemium,others,AI inside Coda docs,"docs, tables",,📘
-Airtable AI,https://airtable.com/,freemium,others,Smart spreadsheet database,"database, spreadsheet",,📋
-Tally,https://tally.so/,freemium,others,No-code forms for free,"forms, nocode",,🧾
-Typeform,https://www.typeform.com/,freemium,others,Beautiful conversational forms,"forms, surveys",,📝
-Jotform,https://www.jotform.com/,freemium,others,Powerful forms & workflows,"forms, workflow",,🧰
-Webflow,https://webflow.com/,freemium,others,Visual website builder + CMS,"site, cms",,🌐
-Framer AI,https://www.framer.com/,freemium,others,AI site builder & animations,"site, design",,🎨
-Bubble,https://bubble.io/,freemium,others,No-code web app builder,"nocode, webapp",,🧩
-Softr,https://www.softr.io/,freemium,others,Build apps on Airtable,"nocode, airtable",,🧱
-Glide,https://www.glideapps.com/,freemium,others,Turn sheets into apps,"sheets, apps",,📱
-AppSheet,https://www.appsheet.com/,freemium,others,Google no-code app builder,"google, apps",,🧩
-Make,https://www.make.com/,freemium,others,Visual automation platform,"automation, integrations",,🔄
-n8n,https://n8n.io/,freemium,others,Self-hosted automation workflows,"automation, selfhost",,🛠️
-IFTTT,https://ifttt.com/,freemium,others,Simple automation applets,"automation, applets",,🔁
-Zapier Interfaces,https://zapier.com/interfaces,freemium,others,UI blocks + automations,"ui, automation",,🧩
-Tallyfy,https://tallyfy.com/,paid,others,Process & approvals workflows,"process, workflow",,✅
-ClickUp,https://clickup.com/,freemium,others,Project management + AI,"project, tasks",,✅
-Asana,https://asana.com/,freemium,others,Team tasks & project boards,"tasks, project",,🗂️
-Trello,https://trello.com/,freemium,others,Kanban boards for teams,"kanban, project",,🪪
-Monday.com,https://monday.com/,freemium,others,Work OS with automations,"project, automation",,📅
-Linear,https://linear.app/,freemium,others,Issue tracking for product teams,"issues, roadmap",,🧭
-Height,https://height.app/,freemium,others,Tasks with automations,"tasks, automation",,⛳
-Motion,https://www.usemotion.com/,paid,others,Auto-schedule tasks & meetings,"calendar, planning",,🗓️
-Superhuman,https://superhuman.com/,paid,others,Fast email with AI,"email, productivity",,✉️
-SaneBox,https://www.sanebox.com/,paid,others,Smart email filtering,"email, filter",,📬
-Mailmeteor,https://www.mailmeteor.com/,freemium,others,Gmail mail merge,"email, merge",,📧
-Hunter.io,https://hunter.io/,freemium,others,Find emails by domain,"email, leads",,🕵️
-Apollo,https://www.apollo.io/,freemium,others,B2B leads & sequences,"leads, outreach",,📈
-Lemlist,https://lemlist.com/,freemium,others,Personalised cold email,"email, outreach",,✉️
-Ahrefs,https://ahrefs.com/,paid,others,SEO suite & site audit,"seo, backlinks",,🔍
-Semrush,https://www.semrush.com/,paid,others,SEO & marketing toolkit,"seo, ads",,📊
-SurferSEO,https://surferseo.com/,paid,others,On-page optimization with AI,"seo, content",,🧭
-NeuronWriter,https://neuronwriter.com/,paid,others,SEO content editor with AI,"seo, content",,🧠
-Clearscope,https://www.clearscope.io/,paid,others,Content optimization,"seo, content",,🧼
-Notion Charts,https://notioncharts.io/,freemium,others,Charts & dashboards for Notion,"charts, notion",,📈
-Tability,https://www.tability.io/,freemium,others,OKRs & goals tracking,"okr, goals",,🎯
-Typedream,https://typedream.com/,freemium,others,Simple site builder,"site, nocode",,🌐
-Carrd,https://carrd.co/,freemium,others,One-page sites builder,"landing, site",,🪪
-Dorik,https://dorik.com/,freemium,others,Simple websites & blogs,"site, cms",,📰
-Super,https://super.so/,paid,others,Turn Notion pages into sites,"notion, site",,⚡
-Potion,https://potion.so/,paid,others,Notion websites with styling,"notion, site",,🧪
-Typedesk,https://www.typedesk.com/,freemium,others,Canned responses & snippets,"support, replies",,💬
-Tiptap,https://tiptap.dev/,free,developer-tools,Headless rich-text editor,"editor, richtext",,🧩
-Monaco Editor,https://microsoft.github.io/monaco-editor/,free,developer-tools,VS Code editor in browser,"editor, code",,💻
-CodeSandbox,https://codesandbox.io/,freemium,developer-tools,Cloud dev environments,"ide, sandbox",,🧪
-StackBlitz WebContainers,https://stackblitz.com/,free,developer-tools,Run Node.js in browser,"webcontainers, ide",,🧪
-Gitpod,https://www.gitpod.io/,freemium,developer-tools,Cloud dev workspaces,"ide, cloud",,☁️
-Fly.io,https://fly.io/,freemium,developer-tools,Deploy apps near users,"deploy, edge",,🛫
-Render,https://render.com/,freemium,developer-tools,Cloud hosting for apps/db,"hosting, deploy",,🚀
-Railway,https://railway.app/,freemium,developer-tools,Instant backends & services,"deploy, backend",,🛤️
-Deno Deploy,https://deno.com/deploy,freemium,developer-tools,Edge JavaScript hosting,"edge, js",,🦕
-Cloudflare Workers AI,https://developers.cloudflare.com/workers-ai/,freemium,developer-tools,AI inference at the edge,"edge, ai",,☁️
-OpenRouter,https://openrouter.ai/,freemium,developer-tools,Unified API for many LLMs,"llm, gateway",,🔌
-Replicate,https://replicate.com/,paid,developer-tools,Run AI models via API,"models, api",,🧠
-Together,https://www.together.ai/,freemium,developer-tools,Open models & inference,"inference, models",,🤝
-Perplexity API,https://www.perplexity.ai/api,paid,developer-tools,Answer engine API,"search, api",,❓
-Firecrawl,https://www.firecrawl.dev/,freemium,developer-tools,Crawl + extract web content,"crawler, extract",,🕷️
-Apify,https://apify.com/,freemium,developer-tools,Web scraping platform,"scraping, automation",,🕸️
-Browserless,https://www.browserless.io/,freemium,developer-tools,Headless Chrome as a service,"puppeteer, scraping",,🧪
-ScrapingBee,https://www.scrapingbee.com/,paid,developer-tools,Simple scraping API,"scraping, proxy",,🐝
-Pinecone Serverless,https://www.pinecone.io/,freemium,developer-tools,Vector DB for semantic search,"vector, search",,📦
-Weaviate Cloud,https://weaviate.io/,freemium,developer-tools,Vector DB with modules,"vector, search",,🧊
-Leonardo Diffusion,https://leonardo.ai/,freemium,content-creation,Text-to-image with precision control,"image, diffusion",,🖌️
-Krea AI,https://www.krea.ai/,freemium,content-creation,Real-time text-to-image generation,"image, real-time",,🧠
-Scenario,https://www.scenario.com/,paid,content-creation,Game asset generator,"game, art",,🎮
-Paint by Text,https://paintbytext.chat/,free,content-creation,Edit images with text prompts,"image, edit",,🎨
-PhotoRoom,https://www.photoroom.com/,freemium,content-creation,Remove backgrounds & design products,"background, design",,🧺
-Remove.bg API,https://www.remove.bg/api,freemium,developer-tools,API for background removal,"api, image",,🔌
-Genmo,https://www.genmo.ai/,freemium,content-creation,Turn prompts into motion videos,"motion, animation",,🎥
-Animato,https://animato.ai/,freemium,content-creation,Storyboard video generator,"storyboard, video",,🎞️
-Type.ai,https://type.ai/,freemium,content-creation,Smart document editor with AI,"writing, docs",,✍️
-HyperWrite,https://www.hyperwriteai.com/,freemium,content-creation,Writing & automation assistant,"writing, automation",,📝
-InkForAll,https://inkforall.com/,freemium,content-creation,SEO + AI writing tool,"writing, seo",,🧠
-GrammarlyGO,https://www.grammarly.com/ai,freemium,content-creation,Writing assistant with tone control,"grammar, style",,📖
-Soundful,https://soundful.com/,freemium,content-creation,AI music generator for creators,"music, generator",,🎶
-Mubert,https://mubert.com/,freemium,content-creation,AI music generator and API,"music, streaming",,🎧
-Beatbot,https://www.beatbot.fm/,free,content-creation,AI lyric + beat generator,"music, lyrics",,🎵
-SoundDraw,https://soundraw.io/,paid,content-creation,AI music composer for creators,"music, compose",,🎼
-ElevenLabs Dubbing,https://elevenlabs.io/dubbing,freemium,content-creation,Translate & sync voiceovers,"voice, dubbing",,🔊
-Resemble.ai,https://www.resemble.ai/,paid,content-creation,Voice cloning & TTS API,"voice, tts",,🗣️
-Voicemod,https://www.voicemod.net/,freemium,content-creation,Live voice changer,"voice, realtime",,🎙️
-PlayPhrase,https://www.playphrase.me/,free,content-creation,Generate phrases from movies,"video, quotes",,🎬
-Fliki,https://fliki.ai/,freemium,content-creation,Script-to-video creator,"video, script",,📜
-QuickVid,https://quickvid.ai/,paid,content-creation,Short-form video generator,"shorts, video",,📱
-Pimeyes,https://pimeyes.com/,freemium,others,Face search engine,"search, face",,👤
-Browse AI,https://www.browse.ai/,freemium,developer-tools,No-code web data extraction,"scraper, automation",,🕸️
-Octoparse,https://www.octoparse.com/,freemium,developer-tools,Web scraping software,"scrape, automation",,🐙
-Metabase,https://www.metabase.com/,freemium,developer-tools,Self-hosted BI dashboard,"analytics, dashboard",,📊
-Superset,https://superset.apache.org/,free,developer-tools,Open-source data exploration,"data, charts",,📈
-Retool,https://retool.com/,freemium,developer-tools,Internal tools builder,"internal, ui",,🧩
-Budibase,https://budibase.com/,freemium,developer-tools,Build internal tools fast,"nocode, tools",,🛠️
-Appsmith,https://www.appsmith.com/,freemium,developer-tools,Open-source internal apps,"nocode, backend",,⚙️
-Directus,https://directus.io/,freemium,developer-tools,API-first data platform,"backend, api",,🔌
-Hasura,https://hasura.io/,freemium,developer-tools,Instant GraphQL on Postgres,"graphql, api",,🧠
-Postman,https://www.postman.com/,freemium,developer-tools,API testing and docs,"api, test",,🧪
-Insomnia,https://insomnia.rest/,free,developer-tools,REST & GraphQL client,"api, rest",,💤
-Paw,https://paw.cloud/,paid,developer-tools,Advanced API client for macOS,"api, client",,🐾
-RapidAPI,https://rapidapi.com/,freemium,developer-tools,API marketplace,"api, marketplace",,🧰
-Kong,https://konghq.com/,freemium,developer-tools,API gateway & microservices,"api, gateway",,🏗️
-Strapi,https://strapi.io/,freemium,developer-tools,Headless CMS framework,"cms, node",,🧱
-Ghost,https://ghost.org/,freemium,others,Modern publishing platform,"blog, cms",,👻
-Umso,https://umso.com/,freemium,others,Startup website builder,"landing, builder",,🌐
-Typedream AI,https://typedream.com/ai,freemium,others,AI page generator,"landing, nocode",,🪄
-Durable,https://durable.co/,freemium,others,AI website builder for businesses,"site, automation",,🏗️
-Hostinger AI,https://www.hostinger.com/ai,freemium,others,Generate sites instantly,"site, ai",,🏠
-Reword,https://reword.co/,freemium,content-creation,AI editor for blogs,"writing, seo",,✍️
-WordHero,https://wordhero.co/,paid,content-creation,Blog & social copy generator,"content, marketing",,🧠
-ContentBot,https://contentbot.ai/,freemium,content-creation,AI content suite,"writing, marketing",,📢
-Chatsonic,https://writesonic.com/chat,freemium,content-creation,ChatGPT-style content assistant,"chat, writing",,💬
-YouChat,https://you.com,free,others,AI search engine,"search, chatbot",,🔍
-Perplexity,https://www.perplexity.ai/,free,others,AI answer engine,"search, qna",,❓
-Phind,https://www.phind.com/,free,developer-tools,Developer-focused AI search,"search, dev",,🧠
-GitHub Copilot Chat,https://github.com/features/copilot,paid,developer-tools,Inline AI code help,"code, ai",,💻
-Cody,https://sourcegraph.com/cody,freemium,developer-tools,AI coding assistant,"code, search",,🔍
-ChatGPT,https://chat.openai.com/,freemium,others,Conversational AI assistant,"chat, writing",,💬
-Claude,https://claude.ai/,freemium,others,AI assistant by Anthropic,"chat, reasoning",,🤖
-Gemini,https://gemini.google.com/,freemium,others,Google’s generative AI assistant,"chat, google",,🌌
-Poe,https://poe.com/,freemium,others,Multi-AI chat platform,"chat, multi",,💭
-HuggingChat,https://huggingface.co/chat/,free,others,Open-source AI chat,"open, llm",,🧩
-OpenAI Playground,https://platform.openai.com/playground,freemium,developer-tools,Try LLM prompts live,"llm, playground",,🧠
-Cohere API,https://cohere.com/,freemium,developer-tools,NLP APIs for generation,"nlp, api",,💬
-Anthropic API,https://www.anthropic.com/,freemium,developer-tools,Claude API for apps,"ai, api",,🤖
-AI21 Studio,https://studio.ai21.com/,freemium,developer-tools,Text generation APIs,"nlp, api",,🧠
-Replicate Studio,https://replicate.com/,paid,developer-tools,Run AI models via API,"models, deploy",,⚙️
-Modal,https://modal.com/,freemium,developer-tools,Deploy AI code fast,"deploy, cloud",,☁️
-Vercel AI SDK,https://vercel.com/ai,freemium,developer-tools,Build AI chat apps easily,"sdk, chat",,🧰
-Streamlit,https://streamlit.io/,free,developer-tools,Build data & AI dashboards,"data, dashboard",,📊
-Gradio,https://gradio.app/,free,developer-tools,Web UIs for ML models,"ui, ml",,🧩
-FastAPI,https://fastapi.tiangolo.com/,free,developer-tools,Python API framework,"backend, api",,⚙️
-LangFlow,https://langflow.org/,free,developer-tools,Visual builder for LLM chains,"langchain, builder",,🧱
-Dust,https://dust.tt/,freemium,developer-tools,Build AI agents visually,"agents, workflow",,💡
-Flowise,https://flowiseai.com/,free,developer-tools,Visual LLM workflow builder,"workflow, open",,🧩
-Lobe,https://www.lobe.ai/,free,developer-tools,Train ML models easily,"ml, train",,🧠
-RunPod,https://runpod.io/,freemium,developer-tools,GPU cloud for AI inference,"gpu, cloud",,⚡
-Banana.dev,https://banana.dev/,freemium,developer-tools,Deploy ML models serverless,"deploy, ml",,🍌
-Replicate Webhooks,https://replicate.com/docs/webhooks,free,developer-tools,Trigger jobs with webhooks,"api, hook",,🔔
-Scale.ai,https://scale.com/,paid,developer-tools,Data labeling platform,"data, labeling",,🗃️
-Label Studio,https://labelstud.io/,free,developer-tools,Open-source labeling tool,"data, label",,🏷️
-Databricks,https://databricks.com/,paid,developer-tools,AI/ML data platform,"data, lake",,📚
-Snowflake Cortex,https://www.snowflake.com/en/data-cloud/cortex/,paid,developer-tools,AI in data cloud,"data, ai",,❄️
-BigQuery ML,https://cloud.google.com/bigquery-ml,paid,developer-tools,ML inside SQL,"ml, sql",,📊
-AWS Bedrock,https://aws.amazon.com/bedrock/,paid,developer-tools,Amazon generative AI suite,"aws, genai",,🪨
-Azure OpenAI,https://azure.microsoft.com/en-us/products/ai-services/openai-service,paid,developer-tools,OpenAI hosted by Microsoft,"azure, openai",,🧭
-IBM WatsonX,https://www.ibm.com/watsonx,paid,developer-tools,Enterprise AI platform,"enterprise, ai",,🏢
-HuggingFace Spaces,https://huggingface.co/spaces,free,developer-tools,Host & demo ML apps,"ml, demo",,🧪
-Kaggle Notebooks,https://www.kaggle.com/code,free,developer-tools,Cloud notebooks for ML,"ml, code",,📓
-Colab,https://colab.research.google.com/,free,developer-tools,Cloud Jupyter notebooks,"python, ml",,📘
-Paperspace,https://www.paperspace.com/,freemium,developer-tools,GPU cloud for ML,"gpu, cloud",,☁️
-Gradient,https://gradient.run/,freemium,developer-tools,ML dev cloud by Paperspace,"ml, gpu",,🧠
-Spellbook,https://www.spellbook.legal/,paid,others,Legal drafting AI,"law, contracts",,⚖️
-Harvey,https://www.harvey.ai/,paid,others,AI lawyer for firms,"legal, ai",,📜
-Casetext CoCounsel,https://casetext.com/,paid,others,Legal AI assistant,"law, research",,⚖️
-Glean,https://www.glean.com/,paid,others,Enterprise search AI,"search, enterprise",,🏢
-Krisp API,https://krisp.ai/api,freemium,developer-tools,Noise cancellation API,"audio, api",,🔇
-Descript Overdub,https://www.descript.com/,freemium,content-creation,Clone your own voice,"voice, clone",,🎤
-Kaedim,https://www.kaedim3d.com/,paid,content-creation,2D to 3D model generation,"3d, model, design",,🧊
-Ludo.ai,https://ludo.ai/,paid,content-creation,Game concept generation assistant,"game, ideation",,🎮
-Scenario Studio,https://www.scenario.com/,paid,content-creation,Generate game-ready assets,"game, assets",,🧱
-Polycam,https://poly.cam/,freemium,content-creation,3D scanning & photogrammetry,"3d, scan",,📸
-Magnific,https://magnific.ai/,paid,content-creation,Image enhancer & upscaler,"upscale, image",,🔍
-Let's Enhance,https://letsenhance.io/,freemium,content-creation,AI photo enhancement,"upscale, photo",,🖼️
-ClipDrop Relight,https://clipdrop.co/relight,freemium,content-creation,Change lighting in photos,"lighting, photo",,💡
-AI Picasso,https://aipicasso.studio.site/,free,content-creation,Draw & paint from prompts,"drawing, paint",,🎨
-DeepAI Image Generator,https://deepai.org/machine-learning-model/text2img,free,content-creation,Text to image API,"image, api",,🖌️
-Lexica,https://lexica.art/,free,content-creation,Prompt search & image generator,"image, search",,🔍
-Illustro,https://www.illustro.ai/,freemium,content-creation,AI graphic designer,"design, image",,🎨
-Hotpot.ai,https://hotpot.ai/,freemium,content-creation,AI design and art tools,"design, generator",,🧠
-AutoDraw,https://www.autodraw.com/,free,content-creation,Smart drawing tool by Google,"draw, assist",,✏️
-D-ID Creative Reality,https://www.d-id.com/,paid,content-creation,Talking avatars from text,"avatar, video",,🎭
-Hour One,https://www.hourone.ai/,paid,content-creation,Virtual humans for business videos,"avatar, video",,👤
-Reface,https://reface.ai/,freemium,content-creation,Face-swap app with AI,"face, swap",,😎
-Deep Nostalgia,https://www.myheritage.com/deep-nostalgia,paid,content-creation,Animate old photos,"animation, photo",,🧓
-RunDiffusion,https://rundiffusion.com/,paid,content-creation,Hosted Stable Diffusion,"image, diffusion",,🖼️
-Playground.ai,https://playground.ai/,free,content-creation,Free image generator,"image, generate",,🎨
-Dream by Wombo,https://www.wombo.art/,freemium,content-creation,Create art from words,"image, creative",,🌈
-Simplified,https://simplified.com/,freemium,content-creation,All-in-one content suite,"marketing, content",,💡
-Glasp,https://glasp.co/,free,others,Social highlight & notes,"highlight, notes",,📝
-TLDR Pages,https://tldr.sh/,free,others,Short developer cheat sheets,"dev, docs",,🧾
-StackOverflow AI,https://stackoverflow.co/ai/,freemium,developer-tools,Q&A enhanced by AI,"dev, help",,💬
-Tabnine,https://www.tabnine.com/,freemium,developer-tools,AI code completion,"code, ai",,💻
-Kite,https://www.kite.com/,free,developer-tools,AI code assistant,"python, autocomplete",,🧠
-Codiga,https://www.codiga.io/,freemium,developer-tools,Code review assistant,"code, review",,🧩
-CodeWhisperer,https://aws.amazon.com/codewhisperer/,freemium,developer-tools,AWS AI code assistant,"aws, code",,🧰
-Pieces,https://pieces.app/,freemium,developer-tools,Smart clipboard for developers,"dev, snippet",,📋
-StackAid,https://stackaid.us/,freemium,developer-tools,Support open-source developers,"open-source, funding",,💰
-Cursor IDE,https://cursor.sh/,freemium,developer-tools,AI-powered coding environment,"ide, ai",,⚙️
-Sourcegraph,https://sourcegraph.com/,freemium,developer-tools,Universal code search,"search, code",,🔎
-Rewind,https://www.rewind.ai/,paid,others,Recall everything you’ve seen or said,"memory, record",,🔁
-Recall.ai,https://www.recall.ai/,paid,developer-tools,Unified API for meeting bots,"meetings, api",,📞
-Krisp SDK,https://krisp.ai/sdk,freemium,developer-tools,Integrate noise cancellation,"audio, sdk",,🔇
-Cleanvoice,https://cleanvoice.ai/,freemium,content-creation,Remove filler words in audio,"audio, clean",,🎧
-Podcastle,https://podcastle.ai/,freemium,content-creation,"Create, edit & publish podcasts","podcast, edit",,🎙️
-Alitu,https://alitu.com/,paid,content-creation,Podcast production app,"audio, podcast",,🎤
-Descript Filler Remover,https://www.descript.com/,freemium,content-creation,Auto removes filler words,"audio, cleanup",,🧽
-Boomy,https://boomy.com/,freemium,content-creation,Create instant songs,"music, generation",,🎵
-Tuney,https://tuney.io/,freemium,content-creation,Adaptive AI music composer,"music, adapt",,🎶
-Refraction,https://refraction.dev/,freemium,developer-tools,Code explanations & refactors,"refactor, explain",,🧩
-ExplainThis,https://explainthis.ai/,free,others,Summarize complex pages,"summarize, ai",,📄
-Summarize.tech,https://www.summarize.tech/,free,others,Summarize YouTube videos,"summary, youtube",,🎥
-Eightify,https://eightify.app/,freemium,others,YouTube summarizer,"youtube, summary",,🧠
-Vidyo,https://vidyo.ai/,freemium,content-creation,Convert long videos into clips,"shorts, repurpose",,✂️
-Wisecut AI,https://www.wisecut.video/,freemium,content-creation,Auto-cut videos for social,"auto, short",,🎬
-OpusClip,https://www.opus.pro/,freemium,content-creation,Viral short generator,"clip, shorts",,🎞️
-Chopcast,https://chopcast.io/,freemium,content-creation,Auto chop long videos,"video, segment",,🎬
-Detail,https://detail.co/,freemium,content-creation,AI camera app for creators,"video, camera",,📷
-Synthesia Studio,https://www.synthesia.io/,paid,content-creation,Generate videos from text,"avatar, video",,🎭
-ReRender,https://rerender.ai/,freemium,content-creation,Enhance and restore old videos,"video, restore",,🧩
-WavTool,https://www.wavtool.com/,freemium,content-creation,Music DAW with AI help,"daw, music",,🎚️
-Emergent Drums,https://audialab.com/,paid,content-creation,Generate new drum sounds,"music, drums",,🥁
-Beatopia,https://beatopia.com/,paid,content-creation,Beat marketplace & AI composer,"beats, music",,🎵
-Stability API,https://platform.stability.ai/,freemium,developer-tools,Stable Diffusion API access,"image, api",,🧠
-Replicate API,https://replicate.com/,freemium,developer-tools,Model hosting and inferencing,"ml, inference",,⚙️
-Pinecone Vector DB,https://www.pinecone.io/,freemium,developer-tools,Vector search for AI apps,"vector, db",,🧩
-Qdrant Cloud,https://qdrant.tech/,freemium,developer-tools,Vector search backend,"vector, search",,🧱
-Milvus,https://milvus.io/,free,developer-tools,Open source vector DB,"vector, engine",,🧊
-LlamaIndex,https://www.llamaindex.ai/,freemium,developer-tools,Framework for LLM data,"llm, index",,🦙
-Dust Builder,https://dust.tt/,freemium,developer-tools,Visual LLM app builder,"llm, builder",,🧠
-FlowGPT,https://flowgpt.com/,free,others,Prompt sharing platform,"prompts, gpt",,💬
-PromptBase,https://promptbase.com/,paid,others,Marketplace for AI prompts,"prompts, sell",,💰
-PromptLayer,https://promptlayer.com/,freemium,developer-tools,Track & manage GPT prompts,"gpt, monitor",,🔎
-Promptable,https://promptable.ai/,freemium,developer-tools,Prompt version control,"prompts, version",,🗂️
-BerriAI,https://www.berri.ai/,freemium,developer-tools,Build chatbots over your data,"chat, api",,🤖
-Chatbase,https://www.chatbase.co/,freemium,developer-tools,Train chatbots on documents,"chatbot, docs",,📚
-Documind,https://documind.ai/,freemium,others,Chat with your files,"documents, chat",,📄
-AskYourPDF,https://askyourpdf.com/,freemium,others,Chat with PDF documents,"pdf, chat",,📄
-FileGPT,https://filegpt.app/,freemium,others,AI file assistant,"files, chat",,🧾
-Mindgrasp,https://mindgrasp.ai/,freemium,others,Summarize any document or video,"notes, ai",,🧠
-ScholarAI,https://scholarai.io/,free,others,Academic research assistant,"research, paper",,📚
-Elicit,https://elicit.org/,free,others,AI research helper,"research, literature",,🔬
-Consensus,https://consensus.app/,freemium,others,Research summarizer,"science, summary",,📘
-Scite,https://scite.ai/,freemium,others,Smart citation network,"citation, research",,📖
-Paperpile AI,https://paperpile.com/,freemium,others,Reference manager with AI,"reference, papers",,📚
-Semantic Scholar,https://www.semanticscholar.org/,free,others,AI-powered research search,"search, research",,🧠
-ResearchRabbit,https://www.researchrabbitapp.com/,free,others,Research discovery app,"science, reference",,🐇
-Mendeley,https://www.mendeley.com/,freemium,others,Manage research & PDFs,"papers, cite",,📘
-Scholarcy,https://www.scholarcy.com/,freemium,others,Summarize & highlight papers,"summary, research",,📄
-Typefully,https://typefully.com/,freemium,content-creation,Write and schedule tweets,"twitter, writing",,🐦
-Hypefury,https://hypefury.com/,freemium,content-creation,Twitter growth automation,"social, twitter",,💬
-TweetHunter,https://tweethunter.io/,freemium,content-creation,Twitter analytics & ideas,"social, tweets",,🐦
-Taplio,https://taplio.com/,freemium,content-creation,LinkedIn AI content generator,"linkedin, writing",,💼
-Circle,https://circle.so/,paid,others,Community platform with AI,"community, forum",,💬
-Tribe,https://tribe.so/,paid,others,Modern community platform,"community, platform",,🧭
-Discord Bot Studio,https://dbot.studio/,paid,developer-tools,Build Discord bots visually,"bots, discord",,🤖
-Botpress,https://botpress.com/,freemium,developer-tools,Build chatbots visually,"chatbot, flow",,💬
-Manychat,https://manychat.com/,freemium,others,Messenger & IG automation,"chatbot, marketing",,💡
-Chatfuel,https://chatfuel.com/,freemium,others,Messenger chatbot builder,"facebook, chat",,💬
-Landbot,https://landbot.io/,freemium,others,No-code chatbots,"nocode, chat",,🗨️
-Flow XO,https://flowxo.com/,freemium,others,Chat automation platform,"chat, flow",,🧩
-Tars,https://hellotars.com/,freemium,others,Chatbots for customer support,"chat, support",,💼
-Mixo,https://mixo.io/,freemium,others,AI site builder for startups,"landing, site",,🌐
-10Web,https://10web.io/,freemium,others,WordPress AI website builder,"wordpress, ai",,🧱
-Zyro AI,https://zyro.com/,freemium,others,Website & copy generator,"website, copy",,💬
-Durable AI Builder,https://durable.co/,freemium,others,Business websites in minutes,"site, builder",,⚡
-TeleportHQ,https://teleporthq.io/,free,developer-tools,Frontend builder with AI,"code, ui",,🧠
-Anima,https://www.animaapp.com/,freemium,developer-tools,Convert Figma to code,"design, figma",,🎨
-Uizard,https://uizard.io/,freemium,developer-tools,UI mockups from sketches,"ui, design",,✏️
-Visily,https://www.visily.ai/,freemium,developer-tools,Collaborative wireframe designer,"wireframe, ui",,🧩
-Galileo AI,https://www.usegalileo.ai/,freemium,developer-tools,Generate UI mockups from text,"ui, prompt",,🎨
-Builder.io,https://www.builder.io/,freemium,developer-tools,Drag-and-drop page builder,"site, cms",,🏗️
-Locofy,https://www.locofy.ai/,freemium,developer-tools,Turn Figma into React code,"figma, react",,⚙️
-DhiWise,https://www.dhiwise.com/,freemium,developer-tools,Code generator for developers,"code, ui",,💻
-Plasmic,https://www.plasmic.app/,freemium,developer-tools,Visual builder for React/Vue,"react, design",,🧱
-Penpot,https://penpot.app/,free,developer-tools,Open-source design platform,"design, open",,🖊️
-Figma AI,https://www.figma.com/community/plugin/figma-ai,free,developer-tools,AI design assistant plugin,"figma, plugin",,🎨
-Tome AI Decks,https://tome.app/,freemium,content-creation,AI decks from text prompts,"slides, decks",,📊
-Beautiful.ai,https://www.beautiful.ai/,freemium,content-creation,Smart presentation creator,"slides, presentation",,🖼️
-Pitch,https://pitch.com/,freemium,content-creation,Team presentations with AI,"slides, team",,🧑‍💼
-Gamma App,https://gamma.app/,freemium,content-creation,Generate AI slides & docs,"slides, docs",,📘
-Decktopus,https://www.decktopus.com/,freemium,content-creation,Auto-format decks from outline,"slides, business",,🧾
-Jasper Chat,https://www.jasper.ai/chat,freemium,content-creation,Conversational writing assistant,"chat, writing",,💬
-CopySmith,https://copysmith.ai/,paid,content-creation,AI content for e-commerce,"product, copy",,🛒
-Phrasee,https://phrasee.co/,paid,content-creation,AI email subject optimizer,"marketing, email",,✉️
-Anyword,https://anyword.com/,freemium,content-creation,Conversion-focused copywriter,"ads, writing",,📣
-Instoried,https://www.instoried.com/,freemium,content-creation,Emotional tone analyzer,"tone, writing",,❤️
-Headlime,https://headlime.com/,paid,content-creation,Headline & page copywriter,"headline, ads",,📰
-Smartwriter,https://www.smartwriter.ai/,freemium,content-creation,Personalized outreach messages,"sales, email",,📬
-Lavender,https://www.lavender.ai/,freemium,others,Email personalization coach,"email, ai",,💌
-Writescope,https://writescope.ai/,freemium,content-creation,Grammar & rewriting suite,"grammar, edit",,🧠
-Lex Page,https://lex.page/,freemium,content-creation,Distraction-free AI writing tool,"writing, doc",,📄
-Moonbeam,https://www.gomoonbeam.com/,freemium,content-creation,Write long-form blogs easily,"writing, blog",,📝
-Notedly,https://notedly.ai/,free,others,Summarize and study notes,"notes, summarize",,🗒️
-Upword,https://www.upword.ai/,freemium,others,Summarize and manage research,"summarize, docs",,📚
-Readwise Reader,https://readwise.io/read,freemium,others,Read-later with AI highlights,"reader, notes",,📖
-Heyday,https://www.heyday.xyz/,paid,others,AI memory assistant for browsing,"memory, recall",,🧠
-Mem,https://get.mem.ai/,freemium,others,Smart note-taking with AI,"notes, memory",,📒
-Reflect Notes,https://reflect.app/,paid,others,Linked note-taking app,"notes, network",,🔗
-Obsidian Copilot,https://obsidian.md/,free,others,AI plugin for Obsidian,"notes, plugin",,🧩
-Taskade,https://www.taskade.com/,freemium,others,AI task & workspace app,"tasks, notes",,✅
-Motion Planner,https://www.usemotion.com/,paid,others,AI scheduling & productivity,"schedule, tasks",,🗓️
-Sunsama,https://sunsama.com/,paid,others,Daily planning assistant,"planning, focus",,☀️
-Akiflow,https://www.akiflow.com/,paid,others,Smart calendar manager,"calendar, schedule",,🕑
-Reclaim.ai,https://reclaim.ai/,freemium,others,Smart calendar automation,"calendar, automate",,🗓️
-Tweek,https://tweek.so/,freemium,others,Minimalist weekly planner,"plan, week",,🗓️
-Cron Calendar,https://cron.com/,free,others,Pro calendar for focus,"calendar, time",,⏰
-Routine,https://www.routine.co/,freemium,others,All-in-one task planner,"task, note",,📋
-Sunsmart,https://www.sunsmart.ai/,paid,others,Business automation suite,"workflow, business",,🧰
-Taskomat,https://taskomat.com/,freemium,others,Freelance productivity AI,"freelance, manage",,💼
-NotionForms,https://notionforms.io/,freemium,others,Create forms for Notion,"notion, forms",,📄
-Formcarry,https://formcarry.com/,freemium,developer-tools,Form backend API,"forms, api",,🔌
-Basin,https://usebasin.com/,freemium,developer-tools,Simple form backend,"forms, backend",,💻
-Formspree,https://formspree.io/,freemium,developer-tools,Email form submissions API,"forms, email",,📧
-Getform,https://getform.io/,freemium,developer-tools,Form endpoint service,"forms, endpoint",,📮
-Netlify Forms,https://www.netlify.com/products/forms/,free,developer-tools,Built-in forms for static sites,"netlify, forms",,🌐
-Vercel Edge,https://vercel.com/edge,freemium,developer-tools,Edge functions for apps,"edge, deploy",,⚡
-Cloudflare KV,https://developers.cloudflare.com/workers/kv/,free,developer-tools,Edge key-value storage,"kv, edge",,☁️
-Supabase Auth,https://supabase.com/auth,freemium,developer-tools,User auth & session API,"auth, login",,🔐
-Clerk,https://clerk.dev/,freemium,developer-tools,Authentication for modern apps,"auth, users",,👥
-Auth0,https://auth0.com/,freemium,developer-tools,Secure identity management,"auth, security",,🔒
-Stytch,https://stytch.com/,freemium,developer-tools,Passwordless auth API,"auth, login",,🔑
-Magic Link,https://magic.link/,freemium,developer-tools,Web3 passwordless auth,"web3, auth",,🪄
-Firebase Auth,https://firebase.google.com/,free,developer-tools,Google identity services,"auth, firebase",,🔐
-PocketBase,https://pocketbase.io/,free,developer-tools,Lightweight backend DB,"backend, db",,🗄️
-Nhost,https://nhost.io/,freemium,developer-tools,Open-source backend for web,"backend, db",,🧠
-Convex,https://convex.dev/,freemium,developer-tools,Reactive backend platform,"backend, realtime",,🔌
-Neon Database,https://neon.tech/,freemium,developer-tools,Serverless Postgres,"db, postgres",,🧩
-PlanetScale,https://planetscale.com/,freemium,developer-tools,Serverless MySQL,"db, mysql",,🪐
-Turso,https://turso.tech/,freemium,developer-tools,Edge SQLite databases,"db, edge",,🧱
-Railway Deploy,https://railway.app/,freemium,developer-tools,Deploy apps easily,"deploy, cloud",,🚀
-Fly Machines,https://fly.io/,freemium,developer-tools,Global edge apps,"deploy, global",,✈️
-Render Cloud,https://render.com/,freemium,developer-tools,Deploy fullstack apps,"cloud, deploy",,☁️
-Deta Space,https://deta.space/,free,developer-tools,Build & host micro apps,"micro, cloud",,🌌
-Koyeb,https://www.koyeb.com/,freemium,developer-tools,Simple serverless platform,"deploy, serverless",,🧩
-Qovery,https://www.qovery.com/,freemium,developer-tools,Cloud infrastructure for devs,"infra, cloud",,🧱
-Zeet,https://zeet.co/,freemium,developer-tools,Deploy containers easily,"containers, ci",,⚙️
-Render Run,https://render.run/,freemium,developer-tools,Automation for devops,"ci, automation",,🛠️
-Instatus,https://instatus.com/,freemium,others,Beautiful status pages,"status, uptime",,📈
-Better Uptime,https://betteruptime.com/,freemium,others,Monitor sites & alerts,"uptime, monitor",,⏱️
-Cronitor,https://cronitor.io/,freemium,developer-tools,Cron job monitoring,"cron, jobs",,🕒
-Pingdom,https://www.pingdom.com/,paid,others,Website uptime monitor,"uptime, alert",,⚡
-Freshping,https://freshworks.com/website-monitoring,free,others,Simple uptime monitor,"ping, uptime",,💡
-Statuspal,https://statuspal.io/,freemium,others,Hosted status pages,"status, page",,📊
-Headway,https://headwayapp.co/,freemium,others,Announce product updates,"changelog, updates",,📰
-LogSnag,https://logsnag.com/,freemium,developer-tools,App event tracking,"log, events",,📜
-PostHog,https://posthog.com/,freemium,developer-tools,Open-source product analytics,"analytics, product",,📈
-Pirsch,https://pirsch.io/,freemium,others,Privacy-friendly analytics,"analytics, privacy",,🔒
-Fathom Analytics,https://usefathom.com/,paid,others,Simple privacy analytics,"analytics, simple",,📊
-Plausible,https://plausible.io/,paid,others,Lightweight web analytics,"analytics, site",,📉
-Umami,https://umami.is/,free,developer-tools,Open-source analytics,"analytics, open",,🧪
-Cal.com,https://cal.com/,freemium,others,Open scheduling platform,"calendar, booking",,📅
-Cronofy,https://www.cronofy.com/,paid,developer-tools,Calendar API,"calendar, api",,🗓️
-Nylas,https://www.nylas.com/,paid,developer-tools,Email & calendar API,"email, api",,✉️
-Super Tokens,https://supertokens.com/,free,developer-tools,Auth & session library,"auth, open",,🔑
-BigCommerce,https://www.bigcommerce.com,paid / enterprise,ecommerce / website,Hosted e-commerce platform for stores & marketplaces.,"ecommerce, store, CMS",,🛒
-Slick Write,https://www.slickwrite.com,free,writing / editor,Lightweight online grammar/style checker and writing analyzer.,"grammar, style, editor",,✍️
-Powtoon,https://www.powtoon.com,freemium,content-creation / animation,Create animated explainer videos & presentations.,"animation, slides, video",,🎞️
-Slidebean,https://slidebean.com,paid / freemium,presentation,AI-assisted pitch deck and slides creator.,"slides, pitch, deck",,📊
-Prezi,https://prezi.com,freemium,presentation,Non-linear presentation platform with zooming canvas.,"presentation, zoom, interactive",,🔎
-Visme,https://www.visme.co,freemium,presentation / design,"Visual content maker for presentations, infographics, reports.","infographic, slides, design",,🖼️
-Frase,https://www.frase.io,paid / freemium,SEO / content-creation,Research + AI content briefs and on-page optimization.,"seo, briefs, research",,🧾
-DeepArt.io,https://deepart.io,freemium,image / art,Turn photos into artwork using neural style transfer.,"art, style-transfer, image",,🎨
-NightCafe Studio,https://creator.nightcafe.studio,freemium,image-gen,Easy text→image generator with many styles and community.,"image, prompts, community",,🌙
-Ecrett Music,https://ecrettmusic.com,paid / freemium,audio / music,AI music generator for videos & apps (mood/scene based).,"music, soundtrack, royalty-free",,🎶
-LALAL.AI,https://lalal.ai,freemium,audio,Stem separation (vocal/instrumental) and audio splitting.,"stems, audio, separation",,🎧
-MobileMonkey,https://mobilemonkey.com,freemium,chatbots / marketing,Omni-channel chatbot & marketing automation for social/messaging.,"chatbot, messenger, automation",,🤖
-Lumen5,https://lumen5.com,freemium,video / content-creation,Turn articles/scripts into short videos automatically.,"video, repurpose, social",,🎬
-Repurpose.io,https://repurpose.io,paid / freemium,video / automation,Automate republishing content across platforms (podcast/video).,"repurpose, automation, social",,🔁
-Originality.ai,https://originality.ai,paid,content / plagiarism detection,AI content checker & plagiarism detector for publishers.,"plagiarism, ai-check, originality",,🔍
-VoiceoverAir,https://voiceoverair.com,freemium? (site),audio / TTS,AI voiceover service (short form voice generation).,"tts, voiceover, narration",,🗣️
-ImgLarger.com,https://imglarger.com,freemium,image / enhancement,Image upscaler and enhancer for low-res photos.,"upscale, enhance, image",,🔎
-Wordtune,https://www.wordtune.com,freemium,writing / rephrase,AI rewriter and sentence rephraser for clarity and tone.,"rewrite, tone, rephrase",,🔁
-AlsoAsked,https://alsoasked.com,freemium,SEO / research,Visualize people-also-ask questions and content ideas.,"pAA, research, seo",,❓
-ILovePDF,https://www.ilovepdf.com,freemium,utilities / pdf,"Suite of PDF tools: merge, split, convert, compress.","pdf, convert, compress",,📄
-PFPMaker (pfpmaker.com),https://pfpmaker.com,freemium,images / avatars,Auto-generate profile pictures from photos or styles.,"avatar, profile, photo",,🧑‍🎨
-Marketing Miner,https://marketingminer.com,paid / freemium,SEO / marketing,Keyword & SEO data mining toolset for marketers.,"seo, data, keywords",,📈
+Runway,https://runwayml.com,premium,Content Creation,Professional text→video editor with generative tools for filmmaking.,"video, editing",,🎬
+Pika Labs,https://pika.art,freemium,Content Creation,Fast text→video creation focused on short-form clips.,"video, shorts",,🎥
+Synthesia,https://www.synthesia.io,premium,Content Creation,Create presenter videos from scripts using AI avatars.,"video, avatar",,🎞
+Leonardo AI,https://leonardo.ai,freemium,Image Generation,High-quality text→image generation for art and design.,"image, art",,🖌
+Midjourney,https://www.midjourney.com,paid,Image Generation,"Artistic, stylized text→image generation for creatives.","image, stylize",,🎨
+Ideogram,https://ideogram.ai,freemium,Image Generation,Posters & logo generation from text prompts.,"image, poster",,🖋
+DreamStudio,https://dreamstudio.ai,paid,Image Generation,Stable Diffusion official studio for image generation.,"sd, image",,🖌
+Playground AI,https://playground.ai,free,Image Generation,Free image generator and prompt playground.,"image, prompts",,🎨
+Leonardo Diffusion,https://leonardo.ai,freemium,Image Generation,Precise SD-based image controls and variants.,"image, diffusion",,🖌
+Krea AI,https://www.krea.ai,freemium,Image Generation,Real-time text→image generation with an easy UI.,"image, real-time",,🧠
+Runway Green Screen,https://runwayml.com/green-screen/,premium,Content Creation,Background removal & replacement for videos.,"greenscreen, edit",,🟩
+Kapwing,https://www.kapwing.com,freemium,Content Creation,Browser-based video & image editor for creators.,"video, editor",,✂
+VEED,https://www.veed.io,freemium,Content Creation,Web video editor with auto-subtitles & templates.,"video, editor",,🎬
+Pictory,https://pictory.ai,freemium,Content Creation,Turn scripts/articles into videos with captions.,"video, subtitles",,📽
+Descript,https://www.descript.com,freemium,Content Creation,All-in-one audio/video editor with overdub TTS.,"audio, edit",,🎧
+Wisecut,https://wisecut.video/,freemium,Content Creation,"Auto jump-cuts, music and short-form optimizations.","auto-edit, shorts",,✂
+Clipchamp,https://www.clipchamp.com/,freemium,Content Creation,Microsoft’s easy web video editor with templates.,"video, templates",,🎬
+CapCut,https://www.capcut.com/,freemium,Content Creation,Web and mobile editor with effects and templates.,"video, editor",,🎬
+Vimeo/VEED Subtitles,https://www.veed.io/tools/automatic-subtitles,freemium,Content Creation,Auto generate subtitles and captions for videos.,"subtitles, captions",,📝
+Otter.ai,https://otter.ai/,freemium,Content Creation,"Meeting transcription, searchable notes and summaries.","transcription, meetings",,🎙
+Riverside.fm,https://riverside.fm/,freemium,Content Creation,Record remote interviews and auto-generate highlights.,"podcast, recording",,🎧
+Kapwing Meme Maker,https://www.kapwing.com/meme-maker,freemium,Content Creation,Quick meme creation with templates and editor.,"meme, templates",,😂
+Canva,https://www.canva.com,freemium,Content Creation,All-in-one design and video templates with AI features.,"design, templates",,🎨
+Canva Beat Sync,https://www.canva.com,freemium,Content Creation,Auto-sync video edits to music beats.,"beat, sync",,🎵
+Adobe Express,https://www.adobe.com/express/,freemium,Content Creation,Design & short video templates with AI helpers.,"design, video",,🎨
+Jasper,https://www.jasper.ai,paid,Content Creation,AI content platform for marketing copy and blogs.,"writing, marketing",,🧠
+Writesonic,https://writesonic.com/,freemium,Content Creation,"AI writer for ads, blogs and landing pages.","writing, ads",,📝
+Copy.ai,https://www.copy.ai/,freemium,Content Creation,Quick marketing copy and idea generation AI.,"copy, marketing",,📣
+Rytr,https://rytr.me/,freemium,Content Creation,Lightweight AI writing assistant for fast content.,"writing, blog",,🖊
+Grammarly,https://www.grammarly.com,freemium,Content Creation,"Writing assistant for grammar, clarity and tone detection.","writing, grammar",,📖
+Wordtune,https://www.wordtune.com,freemium,Content Creation,Rewrite and rephrase assistant to improve clarity.,"rewrite, paraphrase",,🔁
+ProWritingAid,https://prowritingaid.com/,freemium,Content Creation,"Grammar, style and readability editor for writers.","editing, grammar",,📝
+QuillBot,https://quillbot.com/,freemium,Content Creation,Paraphrasing and summarization AI for writers.,"paraphrase, summarize",,🔁
+Notion AI,https://www.notion.so/product/ai,freemium,Productivity & Automation,"AI inside Notion for writing, summaries and ideas.","notes, docs",,📒
+Tome,https://tome.app/,freemium,Content Creation,AI-powered presentation builder and storytelling tool.,"slides, deck",,📊
+Gamma,https://gamma.app/,freemium,Content Creation,Generate pitch decks & docs from text prompts.,"decks, docs",,📑
+Type.ai,https://type.ai/,freemium,Content Creation,Smart document editor with AI-assisted writing.,"docs, editor",,✍
+Hemingway App,https://hemingwayapp.com/,free,Content Creation,Writing clarity analyzer focusing on readability.,"writing, clarity",,✍
+Scribble Diffusion,https://scribblediffusion.com/,free,Image Generation,Turn doodles or sketches into full images.,"draw, sketch",,🖍
+Illustroke,https://www.illustroke.com/,paid,Image Generation,Generate SVG illustrations from text prompts.,"svg, vector",,✏
+Cleanup.pictures,https://cleanup.pictures/,freemium,Content Creation,Remove unwanted objects from photos with AI.,"inpaint, cleanup",,🧽
+Remove.bg,https://www.remove.bg/,freemium,Content Creation,Instant background removal for images and products.,"background, remove",,✂
+Clipdrop,https://clipdrop.co/,freemium,Content Creation,"Enhance, relight and upscale images with AI tools.","edit, upscale",,💡
+Let’s Enhance,https://letsenhance.io/,freemium,Image Generation,AI-powered image upscaling and enhancement.,"upscale, image",,🔍
+Magnific,https://magnific.ai/,paid,Image Generation,High-quality image enhancer and upscaler.,"enhance, upscale",,🔍
+Hotpot.ai,https://hotpot.ai/,freemium,Content Creation,"AI design tools for graphics, icons and banners.","design, graphics",,🧠
+DeepAI,https://deepai.org/machine-learning-model/text2img,free,Image Generation,Text→image API for quick programmatic generation.,"api, image",,🖌
+Lexica,https://lexica.art/,free,Image Generation,Prompt-based image search and inspiration gallery.,"search, prompts",,🔍
+NightCafe,https://creator.nightcafe.studio,freemium,Image Generation,Community-driven text→image generator with styles.,"image, community",,🌙
+Dream by Wombo,https://www.wombo.art/,freemium,Image Generation,Fast art generation with style presets and community.,"art, style",,🌈
+AutoDraw,https://www.autodraw.com/,free,Content Creation,Smart drawing assistant that recognizes doodles.,"draw, assist",,✏
+D-ID,https://www.d-id.com/,paid,Content Creation,Create talking avatars and animated faces from images.,"avatar, animation",,🎭
+Hour One,https://www.hourone.ai/,paid,Content Creation,Virtual humans for business video content and e-learning.,"avatar, video",,👤
+Reface,https://reface.ai/,freemium,Content Creation,Face-swapping app that uses AI to map expressions.,"face, swap",,😎
+Deep Nostalgia,https://www.myheritage.com/deep-nostalgia,paid,Content Creation,Animate old photos into short lifelike videos.,"photo, animation",,🧓
+RunDiffusion,https://rundiffusion.com/,paid,Image Generation,Hosted Stable Diffusion with UI for image experiments.,"sd, image",,🖼
+Scenario,https://www.scenario.com/,paid,Image Generation,Generate game assets and characters for studios.,"game, assets",,🎮
+Krea,https://www.krea.ai,freemium,Image Generation,Realtime image generation platform for creatives.,"image, realtime",,🧠
+Paint by Text,https://paintbytext.chat/,free,Image Generation,Edit images by describing changes in plain text.,"edit, image",,🎨
+PhotoRoom,https://www.photoroom.com/,freemium,Content Creation,Product photo editing and e-commerce image maker.,"product, photo",,🧺
+Cleanvoice,https://cleanvoice.ai/,freemium,Audio & Voice Tools,Remove filler words and improve podcast audio quality.,"audio, cleanup",,🎧
+Descript Overdub,https://www.descript.com/,freemium,Audio & Voice Tools,Clone voices and edit audio like text using overdub.,"tts, clone",,🎤
+PlayHT,https://play.ht/,freemium,Audio & Voice Tools,Realistic TTS voices and voice cloning for narration.,"tts, voice",,🗣
+Murf,https://murf.ai/,freemium,Audio & Voice Tools,Studio-grade voiceover generation and editing suite.,"voice, studio",,🎙
+ElevenLabs,https://elevenlabs.io/,freemium,Audio & Voice Tools,Industry-leading realistic text-to-speech and dubbing.,"tts, cloning",,🔊
+Speechelo,https://speechelo.com/,paid,Audio & Voice Tools,"Simple, natural-sounding TTS for creators.","tts, voice",,🔉
+AIVA,https://www.aiva.ai/,freemium,Content Creation,AI music composer for background scores and themes.,"music, compose",,🎼
+Beatoven,https://www.beatoven.ai/,freemium,Content Creation,Custom royalty-free music tailored to mood and length.,"music, royalty-free",,🎶
+Soundful,https://soundful.com/,freemium,Content Creation,AI music generator for creators and streamers.,"music, generator",,🎧
+Mubert,https://mubert.com/,freemium,Content Creation,AI-generated music for streaming and content use.,"music, stream",,🎶
+Boomy,https://boomy.com/,freemium,Content Creation,Create and publish songs with AI instantly.,"music, publish",,🎵
+Soundraw,https://soundraw.io/,paid,Content Creation,AI music composer for commercial projects and videos.,"music, compose",,🎼
