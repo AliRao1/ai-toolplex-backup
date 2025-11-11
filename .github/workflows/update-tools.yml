@@ -2,13 +2,13 @@ name: Update tools.csv from Google Sheet
 
 on:
   schedule:
-    # every 30 minutes (UTC). Change cron if you want less/more frequent.
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *'   # every 30 minutes (UTC)
   workflow_dispatch: {}
 
 jobs:
   update-csv:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -37,4 +37,4 @@ jobs:
             git commit -m "chore: update tools.csv from Google Sheet"
             git push origin HEAD:main
             echo "Committed updated tools.csv"
-          fi
+          fi
